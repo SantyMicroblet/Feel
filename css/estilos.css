@@ -1,0 +1,709 @@
+body {
+    background: #FFFFFF;
+    font-family: 'inter';
+}
+.container-fluid {padding: 0;}
+.row {--bs-gutter-x: 0;}
+
+/* --- FeelCommerce --- */
+.coffee {
+    margin-top: 25px;
+    margin-left: 55px;
+    height: 31px;
+    width: 134.16px;
+}
+
+.feel {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 100%;
+    color: #0D0E0E;
+    margin-bottom: 0;
+    font-family: 'inter';
+    font-style: normal;
+}
+
+.foto {
+    margin-top: 12px;
+}
+
+.machines {
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 100%;
+    text-align: right;
+    margin-right: 5.16px;
+    margin-left: 29px;
+    font-family: 'inter';
+    font-style: normal;
+}
+
+.coffee1 {
+    margin-top: 33px;
+    margin-right: 54px;
+    height: 24px;
+    width: 406px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: inherit;
+    flex-direction: row;
+    padding: 0;
+}
+
+.sign {
+    width: 49px;
+    height: 16px;
+    margin-left: 0px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 100%;
+    color: #0D0E0E;
+    letter-spacing: -0.02em;
+    font-family: 'inter';
+    font-style: normal;
+}
+
+.become {
+    width: 134px;
+    height: 16px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: -0.02em;
+    color: #0D0E0E;
+    font-family: 'inter';
+    font-style: normal;
+}
+
+.explore {
+    width: 124px;
+    height: 16px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: -0.02em;
+    color: #0D0E0E;
+    font-family: 'inter';
+    font-style: normal;
+}
+
+/* --- Experts & Profile --- */
+.expert {
+    margin-top: 35px;
+}
+
+.experto {
+    width: 48px;
+    height: 20px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: -0.04em;
+    color: #0D0E0E;
+    align-items: center;
+    margin-top: 14px;
+    margin-bottom: 14px;
+    margin-left: 100.03px;
+    font-family: 'inter';
+    font-style: normal;
+    margin-right: 9.97px;
+}
+
+.flecha {
+    margin-top: 19px;
+    margin-bottom: 19px;
+}
+
+.perfil {
+    width: 39px;
+    height: 20px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: -0.04em;
+    color: #0D0E0E;
+    align-items: center;
+    margin-top: 14px;
+    margin-bottom: 14px;
+    font-family: 'inter';
+    font-style: normal;
+    margin-left: 16px;
+}
+
+/* --- David Williams --- */
+.persona {
+    border-bottom: 2px solid #005AFF25;
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.personaje {
+    margin-bottom: 62px;
+}
+
+.verde {
+    position: absolute;
+    left: 228.24px;
+    top: 327.24px;
+}
+
+.estrella {
+    position: absolute;
+    left: 429.19px;
+}
+
+.oval {
+    position: absolute;
+    left: 299px;
+    top: 285px;
+}
+
+.david {
+    margin-top: 25px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-left: 34px;
+    width: 348px;
+    height: 41px;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #1E1E1E;
+    display: flex;
+    align-items: center;
+    font-family: 'inter';
+    font-style: normal;
+}
+
+.york {
+    margin-bottom: 10px;
+    width: 323px;
+    height: 25px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: -0.04em;
+    color: #1E1E1E;
+    margin-left: 34px;
+    display: flex;
+    align-items: center;
+    font-family: 'inter';
+    font-style: normal;
+}
+
+.ubicacion {
+    margin-right: 14px;
+}
+
+.puntuacion {
+    margin-left: 34px;
+    display: flex;
+    align-items: center;
+}
+
+.puntuacion p {
+    margin-bottom: 0;
+    margin-left: 20.02px;
+    width: 75px;
+    height: 25px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: -0.04em;
+    color: #1E1E1E;
+    font-family: 'inter';
+    font-style: normal;
+}
+
+.puntuacion svg {
+    margin-right: 13.71px;
+    margin-bottom: 0;
+}
+
+.launch {
+    width: 240px;
+    height: 54px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: #0D0E0E;
+    border-radius: 3px;
+    margin-top: 40px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 120%;
+    align-items: center;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.boton {
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'inter';
+    font-style: normal;
+}
+
+/* --- More about David --- */
+.more {
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 80px;
+}
+
+.about {
+    margin-right: 114px;
+    margin-bottom: 60px;
+}
+
+.about h4 {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #1E1E1E;
+    margin-bottom: 40px;
+}
+
+.about p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    letter-spacing: -0.02em;
+    color: #1E1E1E;
+    margin-left: 2px;
+    width: 504px;
+}
+
+.certificates {
+    background: #F8F8F8;
+    margin-right: 114px;
+}
+
+.certificates h6 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 120%;
+    color: #0D0E0E;
+    opacity: 0.5;
+}
+
+.uno {
+    margin-top: 56px;
+    margin-left: 40px;
+    margin-bottom: 16.21px;
+}
+
+.dos {
+    margin-left: 40px;
+    margin-top: 32px;
+    margin-bottom: 21.75px;
+}
+
+.tres {
+    margin-top: 42.46px;
+    margin-left: 40.27px;
+    margin-bottom: 20px;
+}
+
+.lista {
+    position: relative;
+}
+
+.lista p {
+    margin-left: 7.67px;
+    margin-bottom: 8px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 245%;
+    color: #1E1E1E;
+}
+
+.lista img {
+    margin-left: 41.67px;
+    margin-bottom: 9px;
+}
+
+.tilde1 {
+    position: absolute;
+    left: 4px;
+}
+
+.tilde2 {
+    position: absolute;
+    left: 4px;
+}
+
+.tilde3 {
+    position: absolute;
+    left: 4px;
+}
+
+.marcas {
+    margin-left: 5.53px;
+}
+
+.marcas img {
+    margin-left: 27.69px;
+}
+
+.posicion {
+    position: relative;
+}
+
+.vector6 {
+    position: absolute;
+    left: -3.5px;
+    top: 2.5px;
+   
+}
+
+.etiquetas1 {
+    margin-left: 34px;
+    margin-bottom: 61px;
+
+}
+
+.etiquetas1 .btn {
+    margin-left: 6px;
+    border: 3px solid #0D0E0E;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.61px;
+    line-height: 140%;
+    letter-spacing: -0.04em;
+    color: #1E1E1E;
+    margin-bottom: 6px;
+}
+
+.etiquetas1 .btn:hover {
+    color: #FFFFFF;
+}
+
+.customers {
+    margin-bottom: 40px;
+}
+
+.customers h4 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #1E1E1E;
+    
+}
+
+.customers h6 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: right;
+    letter-spacing: -0.04em;
+    color: #005AFF;
+    margin-top: 3px;   
+}
+
+.previous {
+    margin-bottom: 26px;
+}
+
+.der {
+    width: 295px;
+    height: 100px;
+    margin-top: 18px;
+    margin-bottom: 11px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: -0.04em;
+    color: #0D0E0E;
+    margin-right: 21px;
+}
+
+.izq {
+    width: 295px;
+    height: 100px;
+    margin-right: 21px;
+    margin-top: 18px;
+    margin-bottom: 11px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: -0.04em;
+    color: #0D0E0E;
+}
+
+.fechas {
+    margin-bottom: 50px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 140%;
+    letter-spacing: -0.04em;
+    color: #0D0E0E;
+    opacity: 0.6;
+}
+
+.imagen {
+    margin-left: 1px;
+    margin-right: 13px;
+}
+
+.numerito p {
+    margin-left: 6.98px;
+    margin-top: 17px;
+}
+
+.barista {
+    margin-right: 49px;
+    margin-bottom: 76px;
+
+}
+
+.barista h5 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: -0.04em;
+    color: #1E1E1E;
+    margin-bottom: 0;
+}
+
+.barista h4 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: -0.04em;
+    color: #005AFF;
+    margin-bottom: 24px;
+}
+
+.barista p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #1E1E1E;
+}
+
+/* --- Instagram & Slider --- */
+.instagram {
+    margin-left: 100px;
+    margin-right: 0px;
+}
+
+.follow {
+    margin-bottom: 40px;
+}
+
+.follow h3 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #1E1E1E;
+}
+
+.wallis img {
+    margin-top: 3.33px;
+}
+
+.wallis p {
+    margin-top: 8px;
+    margin-left: 17.33px;
+    font-size: 18px;
+}
+
+.wallis a {
+    text-decoration: none;
+    color: #0D0E0E;;
+}
+ 
+.deslizar {
+    margin-top: 28px;
+    margin-bottom: 154px;
+    margin-right: 0px;
+    overflow: hidden;
+}
+
+.deslizar img {
+    margin-right: 20px;
+    max-width: 295px;
+    max-height: 295px;
+}
+
+/* --- Footer --- */
+footer {
+    background: #0D0E0E;
+}
+
+.logito {
+    margin-left: 97px;
+    margin-right: 102.25px;
+    margin-bottom: 256px;
+}
+
+.logito1 {
+    margin-top: 75px;
+}
+
+.contacto {
+    margin-top: 72px;
+    border-left: 1px solid #ffffff20;
+}
+
+.contacto1 {
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 85px;
+    margin-bottom: 50px;
+}
+
+.contacto1 h6 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: -0.02em;
+}
+
+.contacto1 .listilla {
+    margin-top: 24px;
+    margin-bottom: 40px;
+}
+
+.listilla {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    color: #BDC2C1;
+}
+
+.listilla p {
+    margin-bottom: 0;
+}
+
+.contacto1 h5 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: -0.02em;
+}
+
+.redes {
+    margin-top: 26px;
+}
+
+.redes img {
+    margin-right: 20px;
+}
+
+.site {
+    margin-top: 72px;
+    border-right: 1px solid #ffffff20;
+    border-left: 1px solid #ffffff20;
+}
+
+.site1 {
+    margin-left: 30px;
+    margin-right: 116px;
+    text-align: left;
+}
+
+.site1 h6 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: -0.02em;
+}
+
+.cosas {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    margin-top: 24px;
+}
+
+.cosas p {
+    margin-bottom: 8px;
+}
+
+.nosotros {
+    margin-top: 72px;
+}
+
+.nosotros1 {
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 99px;
+}
+
+.nosotros1 h6 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: -0.02em;
+}
+
+.lorem {
+    margin-top: 24px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 130%;
+    letter-spacing: -0.01em;
+    color: #BDC2C1;
+    width: 288px;
+    height: 232px;
+}
+
+.fin {
+    text-align: initial;
+    border-left: 1px solid #ffffff20;
+}
+
+.copy {
+    margin-left: 30px;
+    margin-top: 53px;
+    margin-bottom: 51px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 120%;
+    }
+
+.copy p {
+    margin-right: 40px;
+}
+
+.claro {
+    color: #BDC2C1;
+}
